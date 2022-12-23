@@ -7,4 +7,6 @@ VS Code does automatically do that though, but my compiler uses MSYS2 version 11
 Simulates a wordle game until you decide to quit
 Program remembers you past games and makes sure that you do not get the same word that you previously had
 
+When you start the program, a menu will appear in the terminal and you will chose from those options.
+
 Work in progress
